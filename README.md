@@ -1,5 +1,5 @@
-<h3> Hello!</h3>
-:wave: My name is Jesper Larsson. Welcome to my Github profile.
+<h3>:wave: Hello!</h3>
+🙋‍♂️ My name is Jesper Larsson. Welcome to my Github profile.
 </br>
 :books: I'm studying Computer Engineering at KTH Royal Institute of Technology.
 </br>
@@ -8,4 +8,4 @@
 🙏
 Thank you for visiting my profile!
 </br>
-<b>Jesper</b>
+🖋️<b>Jesper</b>
