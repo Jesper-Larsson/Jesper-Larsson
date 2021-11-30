@@ -1,9 +1,9 @@
 <h3>:wave: Hello!</h3>
 🙋‍♂️ My name is Jesper Larsson. Welcome to my Github profile.
 </br>
-:books: I'm studying Computer Engineering at KTH Royal Institute of Technology.
+:books: Graduated Computer Engineering at KTH Royal Institute of Technology 2021.
 </br>
-💻 Here I post some of my school projects and personal projects. More will come soon.
+💻 Here I post some of my projects.
 </br>
 🙏
 Thank you for visiting my profile!
