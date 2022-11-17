@@ -4,12 +4,11 @@
 </br>
 📜My Story as a developer so far:
 </br>
-2018: :books: Started university.</br>
-2021: :party: Graduated with a Bachelor's degree in Computer Engineering at KTH Royal Institute of Technology.</br>
+2018: 📚 Started university.</br>
+2021: 🥳 Graduated with a Bachelor's degree in Computer Engineering at KTH Royal Institute of Technology.</br>
 2021: 💻 Started working as a Software Engineer.
 </br>
 </br>
-🙏
-Thank you for visiting my profile!
+🙏Thank you for visiting my profile!
 </br>
 🖋️<b>Jesper</b>
