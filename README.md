@@ -4,9 +4,9 @@
 </br>
 📜My Story as a developer so far:
 </br>
-:books: Started university in 2018 and graduated with a Bachelor's degree in Computer Engineering at KTH Royal Institute of Technology in 2021.
-</br>
-💻 Started working as a Software Engineer in 2021.
+2018: :books: Started university.
+2021: :party: Graduated with a Bachelor's degree in Computer Engineering at KTH Royal Institute of Technology in 2021.
+2021: 💻 Started working as a Software Engineer.
 </br>
 </br>
 🙏
